@@ -121,7 +121,6 @@ body {
 }
 
 @media (max-width: 768px) {
-
   .box-card {
     flex-direction: column;
   }
@@ -132,7 +131,6 @@ body {
 }
 
 @media (max-width: 480px) {
-
   .box-card-2 {
     flex-direction: column;
   }
